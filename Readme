@@ -1,7 +1,9 @@
-Welcome to the project repository for the Sports Person Image Classification! This project aims to identify and categorize photos of sports celebrities using machine learning techniques. This repository provides tools and information for precise sports picture recognition, relevant to researchers, developers, and sports enthusiasts alike.
+Welcome to the project repository for the Sports Person Image Classification! This project aims to identify and categorize photos of sports celebrities using machine learning techniques. 
+This repository provides tools and information for precise sports picture recognition, relevant to researchers, developers, and sports enthusiasts alike.
 
-**Indroduction**
-Recognizing sports icons in images is a valuable task in today's digital world. This project provides a solution for automated image classification of sports personalities, making it useful for sports apps, fan websites, and sports analytics tools.
+Indroduction
+Recognizing sports icons in images is a valuable task in today's digital world. This project provides a solution for automated image classification of sports personalities, 
+making it useful for sports apps, fan websites, and sports analytics tools.
 
 Key Features
 
@@ -11,5 +13,6 @@ Key Features
 * Model Training: Train models to recognize athletes and sports icons.
 * Evaluation Metrics: Assess model accuracy and performance.
 
-Overall, the sports person classifier is an excellent example of how Flask can be used to deploy machine learning models quickly and easily. With its simple and flexible architecture, 
+Overall, the sports person classifier is an excellent example of how Flask can be used to deploy machine learning models quickly and easily. 
+With its simple and flexible architecture, 
 Flask makes it easy to create web applications that can be used to perform complex tasks such as image classification.
